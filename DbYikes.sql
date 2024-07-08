@@ -96,6 +96,6 @@ Create table Admin
 	PassAdmin varchar(30) not null,
 	Hoten nVarchar(50)
 )
-Insert into Admin values('admin','12345','Nguyen Dang Khoa')
-Insert into Admin values('user','12345','Mr Khoa')
+Insert into Admin values('admin','12345','Le Minh Tuan')
+Insert into Admin values('user','12345','Mr Tuan')
 select *from Admin
